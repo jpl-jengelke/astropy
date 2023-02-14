@@ -5,7 +5,7 @@ from http://hpiers.obspm.fr/iers/eop/eopc04/eopc04_IAU2000.62-now
 
                    INTERNATIONAL EARTH ROTATION AND REFERENCE SYSTEMS SERVICE
                         EARTH ORIENTATION PARAMETERS
-                          EOP (IERS) 08 C04
+                          EOP (IERS) 14 C04
 
 ================================================================================
 
@@ -14,7 +14,7 @@ File Summary:
  FileName           Lrecl    Records    Explanations
 --------------------------------------------------------------------------------
 ReadMe                  80     .   This file, made using header
-eopc04_IAU2000.62-now  155 18279   all EOP values since 01 January 1962
+eopc04_IAU2000.62-now  155 22295   all EOP values since 01 January 1962
 --------------------------------------------------------------------------------
 
 ================================================================================
